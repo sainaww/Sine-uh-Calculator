@@ -53,4 +53,4 @@ calculator tool.
 
 # Author
 
-Saina Mahera, smahera@
+Saina Mahera, smahera@andrew.cmu.edu
